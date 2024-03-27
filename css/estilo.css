@@ -9,7 +9,11 @@ header {
   nav ul li a {
     font-weight: bold;
   }
+  
   .container {
     padding: 20px;
   }
-  
+
+  #conteudo-principal {
+    line-height: 1.5;
+  }
