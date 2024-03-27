@@ -1,0 +1,37 @@
+header {
+    background-color: blue;
+  }
+
+  h1, h2 {
+    font-family: serif;
+  }
+
+  nav ul li a {
+    font-weight: bold;
+  }
+
+  .container {
+    padding: 20px;
+  }
+
+  #conteudo-principal {
+    line-height: 1.5;
+  }
+
+  form {
+    border: 1px solid gray;
+    padding: 10px;
+  }
+
+  p {
+    color: green;
+  }
+
+  form button {
+    background-color: blue;
+    color: white;
+  }
+
+  footer {
+    border-top: 2px solid red;
+  }
